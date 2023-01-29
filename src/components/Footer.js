@@ -30,7 +30,10 @@ const Footer = () => {
         </div>
       </footer>
 
-      <footer className="py-3"></footer>
+      <footer className="py-4">
+        <div className="container-xxl"></div>
+      </footer>
+
       <footer className="py-4">
         <div className="container-xxl">
           <div className="row">
